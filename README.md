@@ -2,5 +2,5 @@
 
 #### Deliverables:
 
-- [Project Proposal](/Project Proposal.md)
+- [Project Proposal](./Project Proposal.md)
 
