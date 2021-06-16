@@ -13,14 +13,14 @@ Further exploratory questions include: What stations are least/most affected (if
 
 The following datasets will be used:
 
-- MTA Turnstile Data - Used to measure the foot traffic of stations at a given day at a given 4 hour interval. Obtained via http://web.mta.info/developers/turnstile.html.
+- MTA Turnstile Data - Used to measure the foot traffic of stations at a given day at a given 4 hour interval. Obtained via http://web.mta.info/developers/turnstile.html. 
 - Past Concerts Archive for MSG - Used to obtain dates of when previous concerts were hosted at MSG. Obtained via https://www.concertarchives.org/venues/madison-square-garden--4?page=1&year=2019#concert-table
 
+2019 data for the above datasets will be used with the assumption that 2019 is a more accurate representation of typical concert and travel behaviours. 
 
+The unit of analysis for this project will be the foot traffic (calculated via entries and exits) of a given station for a given day for a given 4 hour interval. This unit of analysis will potentially allow for a relationship to be observed when a concert is held at MSG. 34 St - Penn Station will be a particular station to analyse. 
 
-What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
-
-If modeling, what will you predict as your target?
+The station, date, time, entries and exits features of the MTA dataset are expected to be used. 
 
 **Tools:**
 
