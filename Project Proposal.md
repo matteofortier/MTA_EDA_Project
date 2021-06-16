@@ -18,7 +18,7 @@ The following datasets will be used:
 
 2019 data for the above datasets will be used with the assumption that 2019 is a more accurate representation of typical concert and travel behaviours. 
 
-The unit of analysis for this project will be the foot traffic (calculated via entries and exits) of a given station for a given day for a given 4 hour interval. This unit of analysis will potentially allow for a relationship to be observed when a concert is held at MSG. 34 St - Penn Station will be a particular station to analyse. 
+The unit of analysis for this project will be the foot traffic (calculated via entries and exits) of a given station for a given day for a given 4 hour interval. This unit of analysis will potentially allow for a relationship to be observed when a concert is held at MSG. '34 St - Penn Station' will be a particular station to analyse. 
 
 The station, date, time, entries and exits features of the MTA dataset are expected to be used. 
 
@@ -32,4 +32,7 @@ The station, date, time, entries and exits features of the MTA dataset are expec
 
 **MVP Goal:**
 
-What would a minimum viable product (MVP) look like for this project?
+A potential minimum viable product for the project:
+
+A line graph comparison of foot traffic at '34 St - Penn Station' station on a typical day without a concert versus a day with a concert.
+
