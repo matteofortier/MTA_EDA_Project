@@ -24,8 +24,11 @@ The station, date, time, entries and exits features of the MTA dataset are expec
 
 **Tools:**
 
-How do you intend to meet the tools requirement of the project?
-Are you planning in advance to need or use additional tools beyond those required?
+- Ingesting the raw data into a SQLite database via the Quick Setup (Manual method may be used if required)
+- Querying from the SQLite database into Python via SQLAlchemy and SQLite queries
+- Database cleaning and aggregation via either SQLAlchemy or Pandas
+- Exploratory data analysis via Pandas
+- Findings will be visualised via matplotlib library (alternatively seaborn library)
 
 **MVP Goal:**
 
