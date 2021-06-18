@@ -18,6 +18,18 @@ The following datasets will be used:
 
 2019 data for the above datasets will be used with the assumption that 2019 is a more accurate representation of typical concert and travel behaviours. 
 
+Initial events to be explored:
+
+| Artist         | Tour                              | Date            |
+| -------------- | --------------------------------- | --------------- |
+| Elton John     | Farewell Yellow Brick Road (tour) | March 5 2019    |
+| Fleetwood Mac  | An Evening with Fleetwood Mac     | March 11 2019   |
+| Ariana Grande  | Sweetener World Tour              | June 18 2019    |
+| Jonas Brothers | Happiness Begins Tour             | August 30 2019  |
+| Cher           | He We Go Again Tour               | December 4 2019 |
+
+MTA Data Surrounding the above dates will be explored.
+
 The unit of analysis for this project will be the foot traffic (calculated via entries and exits) of a given station for a given day for a given 4 hour interval. This unit of analysis will potentially allow for a relationship to be observed when a concert is held at MSG. '34 St - Penn Station' will be a particular station to analyse. 
 
 The station, date, time, entries and exits features of the MTA dataset are expected to be used. 
