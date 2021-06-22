@@ -8,3 +8,11 @@ The focus of the project was pivoted towards stations that weren't located in ce
 
 ![figure](/figure.png)
 
+The daily 4-hourly average traffic at yankee stadium station was plotted, where 'Net Traffic' is the sum of net entries and net exits of turnstiles in 4 hour intervals. The above figure shows how traffic changes depending on the time of day on average. The average of all days in the dataset is then compared with the average of days only when there are home games as well as days only when there are no home games. 
+
+The figure clearly shows whether there is a home game at Yankee Stadium or not, signficantly relates to a change in foot traffic at Yankee Stadium Station. Specifically: 
+
+- Home games relate to a significant overall increase in foot traffic. 
+- Excluding home game days relate to a significant overall decrease in foot traffic, potentially suggesting the large influence of home games on the average traffic of the station (makes sense).
+- The above relations do not apply to Midnight to 4am and 4am to 8am intervals, potentally suggest most games are in the afternoon or evening. 
+
