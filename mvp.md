@@ -14,5 +14,5 @@ The figure clearly shows whether there is a home game at Yankee Stadium or not, 
 
 - Home games relate to a significant overall increase in foot traffic. 
 - Excluding home game days relate to a significant overall decrease in foot traffic, potentially suggesting the large influence of home games on the average traffic of the station (makes sense).
-- The above relations do not apply to Midnight to 4am and 4am to 8am intervals, potentally suggest most games are in the afternoon or evening. 
+- The above relations do not apply to Midnight to 4am and 4am to 8am intervals, potentally suggesting most games are in the afternoon or evening. 
 
