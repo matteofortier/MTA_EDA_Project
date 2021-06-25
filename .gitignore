@@ -6,3 +6,5 @@ mta_data.db
 .ipynb_checkpoints/Exploration-checkpoint.ipynb
 .ipynb_checkpoints/Exploration_2-checkpoint.ipynb
 Images/
+*.db
+databases/.DS_Store
